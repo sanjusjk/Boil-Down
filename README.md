@@ -20,11 +20,15 @@ npm Install
 
 ## OpenAI setup
 
-You need to create an account for [OpenAI](https://openai.com/) site and head down to API--> Docs link. this will take you to  https://platform.openai.com/docs/introduction. 
-On the left pane you need to head to API Keys as shown below.
-![image](https://github.com/sanjusjk/Boil-Down/assets/26535858/d12940fb-5576-49df-b36f-6057d0f531bd)
-click on ![image](https://github.com/sanjusjk/Boil-Down/assets/26535858/f8b8fdd2-f97a-4916-afd0-330bf9baf0f4) and generate the key and copy it in the component page "boil-down.component.ts"
+You need to create an account for [OpenAI](https://openai.com/) site and head down to API--> Docs link. ![image](https://github.com/sanjusjk/Boil-Down/assets/26535858/55876811-c978-41d0-a43a-3b99e60b7bc1)
 
+<br />
+this will take you to  https://platform.openai.com/docs/introduction. page <br />
+On the left pane you need to head to API Keys as shown below. 
+![image](https://github.com/sanjusjk/Boil-Down/assets/26535858/d12940fb-5576-49df-b36f-6057d0f531bd)
+<br />
+click on ![image](https://github.com/sanjusjk/Boil-Down/assets/26535858/f8b8fdd2-f97a-4916-afd0-330bf9baf0f4) and generate the key and paste it in the component page "boil-down.component.ts"
+<br />
 ![image](https://github.com/sanjusjk/Boil-Down/assets/26535858/6d0ea1e5-1cb3-4fc9-933c-2555dc17a2d7)
 
 
