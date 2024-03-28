@@ -24,8 +24,7 @@ You need to create an account for [OpenAI](https://openai.com/) site and head do
 
 <br />
 this will take you to  https://platform.openai.com/docs/introduction. page <br />
-On the left pane you need to head to API Keys as shown below. 
-![image](https://github.com/sanjusjk/Boil-Down/assets/26535858/d12940fb-5576-49df-b36f-6057d0f531bd)
+On the left pane you need to head to API Keys as shown below. ![image](https://github.com/sanjusjk/Boil-Down/assets/26535858/d12940fb-5576-49df-b36f-6057d0f531bd)
 <br />
 click on ![image](https://github.com/sanjusjk/Boil-Down/assets/26535858/f8b8fdd2-f97a-4916-afd0-330bf9baf0f4) and generate the key and paste it in the component page "boil-down.component.ts"
 <br />
